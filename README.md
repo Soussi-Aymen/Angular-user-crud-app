@@ -1,4 +1,5 @@
 # PlayerApp
+In this application I have used different concepts of Angular like routing, consuming a REST API and building a crud system, the Route Guard and many others.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
